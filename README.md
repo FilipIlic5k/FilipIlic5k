@@ -7,7 +7,8 @@ Web Developer and Network Engineer
 I am currently at the HTL Rennweg continuing in the Network Engineering field.
 
 *   🌍  I'm based in Vienna, Austria
-*   ✉️  You can contact me at [f.ilic@gmx.at](mailto:f.ilic@gmx.at)### Skills 
+*   ✉️  You can contact me at [f.ilic@gmx.at](mailto:f.ilic@gmx.at)
+### Skills 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
