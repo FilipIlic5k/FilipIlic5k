@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Filip Ilic
 ==================================================================================================================================
 
-Web Developer and Network Engineer
+Network Engineer
 ----------------------------------
 
 I am currently at the HTL Rennweg continuing in the Network Engineering field.
